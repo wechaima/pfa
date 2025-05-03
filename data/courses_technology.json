@@ -1,0 +1,272 @@
+[
+    {
+        "id": "19999",
+        "title": "Node.js",
+        "domain": "technology",
+        "type": "course",
+        "author": "",
+        "description": "This course provides an introduction to Node.js, a powerful JavaScript runtime environment built on Chrome's V8 engine. The course covers key concepts such as the Node.js architecture, its asynchronous event-driven model, and its advantages and limitations. It explores real-world use cases, benefits for web API development, and practical insights into why major companies use Node.js for scalable applications.",
+        "url": "https://openstax.org/details/books/introduction-computer-science",
+        "image": "https://www.google.com/imgres?q=node%20js&imgurl=https%3A%2F%2Fimages.ctfassets.net%2Faq13lwl6616q%2F7cS8gBoWulxkWNWEm0FspJ%2Fc7eb42dd82e27279307f8b9fc9b136fa%2Fnodejs_cover_photo_smaller_size.png&imgrefurl=https%3A%2F%2Fzerotomastery.io%2Fcourses%2Flearn-node-js%2F&docid=9A6H7yhCAaVbBM&tbnid=n7QkWPwRcx014M&vet=12ahUKEwiB9K-5vOyMAxUIgf0HHYLADY8QM3oECGQQAA..i&w=1000&h=563&hcb=2&ved=2ahUKEwiB9K-5vOyMAxUIgf0HHYLADY8QM3oECGQQAA",
+        "content": [
+            {
+                "element": "1. Introduction to Node.js",
+                "section": "Node (or more formally Node.js®) is a JavaScript runtime built on Chrome's V8 JavaScript engine. Node is an open-source, cross-platform runtime environment that allows developers to create all kinds of server-side applications and tools using JavaScript. This environment is designed to be used outside the browser (it runs directly on your computer or the server’s operating system). Node does not support browser-specific JavaScript APIs (e.g., window.localStorage), but instead offers APIs more traditionally used on servers, such as those for HTTP or file system manipulation. It is an asynchronous, event-driven environment."
+            },
+            {
+                "element": "2. Advantages of Node.js",
+                "section": "Excellent performance: With the ability to handle many operations in its event loop, Node.js offers outstanding performance.\n Great flexibility: A large ecosystem of open-source libraries allows developers to add the necessary modules for a Node.js web application.\n A solid tech stack: By using JavaScript on both the backend (server-side) and the frontend (client-side) with frameworks like React.js, Next.js, Vue.js, or Angular.js, your web application runs JavaScript everywhere."
+            },
+            {
+                "element": "3. Disadvantages of Node.js",
+                "section": "Not ideal for heavy computations: Node.js has proven to be a poor platform for heavy computational tasks, as these are CPU-intensive operations.\n Single-thread performance: Node.js uses a single-threaded model to execute code, which can lead to performance issues when handling many simultaneous tasks. \n No blocking management: Blocking processes can stall the Node.js runtime, potentially causing downtime and a poor user experience."
+            },
+            {
+                "element": "4. Installation node.js",
+                "section": " Install Node from the official website https://nodejs.org/en: this installs .\n The Node JavaScript runtime\n NPM (Node Package Manager) \n est Node in a command prompt \n node -v: to check the installed Node version \nnode: to run JavaScript instructions \n node <filename.js>: to execute a JavaScript file (create a file that contains a console.log)"
+            },
+            {
+                "element": "5. Creating a Web Server with Node.js",
+                "section": "Steps to create a basic Node.js server \n Create a folder named backend \n  Run npm init -y to initialize the project and create the package.json file. This will allow us to install other modules later \n Optional but important: \n Run git init to initialize a Git repository \n Create a .gitignore file and write node_modules on the first line: this will ignore the node_modules folder that will be created during module installation \n Create a file named server.js"
+            }
+        ],
+        "keywords": [
+            "built on Chrome",
+            "Node",
+            "Node.js",
+            "JavaScript",
+            "create",
+            "Chrome",
+            "formally Node.js",
+            "JavaScript runtime built",
+            "Node.js server Create",
+            "file"
+        ]
+    },
+    {
+        "id": "29999",
+        "title": "React.js",
+        "domain": "technology",
+        "type": "course",
+        "author": "",
+        "description": "This course provides an introduction to React.js, a powerful JavaScript library developed by Facebook for building user interfaces. It focuses on component-based development, declarative programming, and efficient rendering using a virtual DOM. The course highlights key concepts like one-way data binding and single-page application architecture, along with real-world applications and why React is widely adopted.",
+        "url": "https://react.dev/",
+        "image": "https://www.google.com/imgres?q=React%20js&imgurl=https%3A%2F%2Ffaq.o2switch.fr%2F_media%2Ftuto-rapide%2Fo2switch-deployer-react.js.png&imgrefurl=https%3A%2F%2Ffaq.o2switch.fr%2Ftuto-rapide%2Fdeployer-application-react-js&docid=Ioj9L2XbUibpWM&tbnid=vlpoXJ7hFRJc9M&vet=12ahUKEwiFjM-pvOyMAxUF_7sIHdPyHk0QM3oECF4QAA..i&w=522&h=343&hcb=2&ved=2ahUKEwiFjM-pvOyMAxUF_7sIHdPyHk0QM3oECF4QAA",
+        "content": [
+            {
+                "element": "1. Introduction to React",
+                "section": "React (or React.js) is a JavaScript library used exclusively for building user interfaces. It is not a full framework. Developed by Facebook in 2013, React introduced a component-based, declarative approach to UI development. It enables developers to create reusable UI components and compose complex user interfaces efficiently."
+            },
+            {
+                "element": "2. Key Features of React",
+                "section": "React uses a virtual DOM to optimize rendering performance, applying only the necessary changes. It also employs one-way data binding, meaning data flows from parent to child components. These features make React ideal for building scalable and maintainable front-end applications."
+            },
+            {
+                "element": "3. Use Cases and Companies",
+                "section": "React is popular for developing single-page applications (SPA). Many major companies use React including Facebook, Instagram, Twitter, WhatsApp, Netflix, Airbnb, and PayPal. Its component-based structure helps teams manage large applications effectively."
+            },
+            {
+                "element": "4. Why Learn React?",
+                "section": "React is accessible to developers with basic knowledge of HTML, CSS, and JavaScript. It has a relatively fast learning curve and integrates well with modern web development tools. The use of npm (Node Package Manager) makes it easy to manage dependencies and share code."
+            }
+        ],
+        "keywords": [
+            "library used exclusively",
+            "React.js",
+            "React",
+            "user interfaces",
+            "exclusively for building",
+            "JavaScript library",
+            "Node Package Manager",
+            "building user interfaces",
+            "user interfaces efficiently",
+            "Facebook"
+        ]
+    },
+    {
+        "id": "39999",
+        "title": "Big Data",
+        "domain": "technology",
+        "type": "course",
+        "author": "",
+        "description": "This course provides an introduction to Big Data, focusing on the characteristics, challenges, and technologies associated with large-scale data processing. It covers the 5 V's of Big Data: Volume, Velocity, Variety, Veracity, and Value, along with technologies like Map Reduce, Hadoop, and NoSQL databases.",
+        "url": "https://www.example.com/big-data-course",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_AsWf6oTpqeiVe5JWRC1h82rk4JXAX7x6lA&s",
+        "content": [
+            {
+                "element": "1. Introduction to Big Data",
+                "section": "Big Data refers to large sets of data that are so vast they surpass human and traditional software systems' ability to analyze them. These data sets often contain hidden insights that can be utilized with proper tools and technologies. The course explores how Big Data is generated and its impact on modern industries."
+            },
+            {
+                "element": "2. Characteristics of Big Data",
+                "section": "Big Data is defined by five key characteristics, often referred to as the 5 V's. These characteristics help define the challenges and opportunities associated with large-scale data processing."
+            },
+            {
+                "element": "3. The 5 V's of Big Data",
+                "section": "The 5 V's represent the key challenges of Big Data that make it difficult to process using traditional methods. These are: Volume, Velocity, Variety, Veracity, and Value."
+            },
+            {
+                "element": "4. Volume",
+                "section": "Volume refers to the massive amount of data produced every day. It is growing exponentially, and 90% of the world’s data has been generated in recent years, especially through web applications and the internet."
+            },
+            {
+                "element": "5. Velocity",
+                "section": "Velocity refers to the speed at which new data is generated and deployed. For example, social media posts can become viral within minutes, creating a massive influx of data that needs to be analyzed in real time."
+            },
+            {
+                "element": "6. Variety",
+                "section": "Variety refers to the different types of data, such as structured data (e.g., text or numbers), semi-structured data (e.g., emails), and unstructured data (e.g., images, videos, social media content). Unstructured data makes up the majority of Big Data."
+            },
+            {
+                "element": "7. Veracity",
+                "section": "Veracity refers to the trustworthiness and reliability of the data collected. Data from sources like social media can be unreliable due to the use of abbreviations, informal language, and errors. Ensuring data veracity is essential for making informed decisions."
+            },
+            {
+                "element": "8. Value",
+                "section": "Value refers to the benefit gained from analyzing and utilizing Big Data. Companies that effectively leverage Big Data can achieve significant competitive advantages, while those that ignore it risk falling behind in the market."
+            },
+            {
+                "element": "9. Sources of Big Data",
+                "section": "The sources of Big Data include web and social media platforms, biometrics and genetics, machine-generated data, transaction data, and human-generated data. Each of these sources contributes vast amounts of information that need to be processed."
+            },
+            {
+                "element": "10. Technologies of Big Data",
+                "section": "Big Data technologies help process, store, and analyze large-scale data sets efficiently. Some of the key technologies include: \n Map Reduce \n Hadoop \n NoSQL Databases"
+            },
+            {
+                "element": "11. Map Reduce",
+                "section": "Map Reduce is a massively parallel processing method developed by Google. It allows for large-scale data processing by breaking down tasks into smaller sub-tasks (Map) and then combining the results (Reduce). It is fault-tolerant and is typically used in distributed systems."
+            },
+            {
+                "element": "12. Hadoop",
+                "section": "Hadoop is a framework developed by the Apache Software Foundation that generalizes the usage of Map Reduce and Google File System (GFS). It is widely used for large-scale data storage and processing. Hadoop offers a distributed computing model but has its limitations, such as performance bottlenecks in some scenarios."
+            },
+            {
+                "element": "13. NoSQL Databases",
+                "section": "NoSQL databases provide flexibility in storing and managing data. They allow for schema-less data storage and support horizontal scaling, making them suitable for large, dynamic data sets. NoSQL databases are fault-tolerant and highly scalable. Popular examples include MongoDB, Cassandra, and Redis."
+            }
+        ],
+        "keywords": [
+            "Big Data",
+            "Big Data refers",
+            "large-scale data",
+            "Map Reduce",
+            "software systems' ability",
+            "data sets",
+            "Big Data technologies",
+            "Big Data include"
+        ]
+    },
+    {
+        "id": "49999",
+        "title": "Artificial Intelligence",
+        "domain": "technology",
+        "type": "course",
+        "author": "",
+        "description": "This course introduces the fundamental concepts of Artificial Intelligence (AI), exploring its definitions, related domains, key applications, and its impact on society. It also discusses the future outlook of AI and the ethical implications associated with its development and use.",
+        "url": "https://course.elementsofai.com/fr/",
+        "image": "https://www.google.com/imgres?q=intelligence%20artificielle&imgurl=https%3A%2F%2Fwww.zabala.fr%2Fwp-content%2Fuploads%2F2023%2F11%2Fintelligence-artificielle-et-conseil-1200x675.jpg&imgrefurl=https%3A%2F%2Fwww.zabala.fr%2Factualites%2Fintelligence-artificielle-et-conseil%2F&docid=hihj9624CcFApM&tbnid=o45EzC-OqXlgtM&vet=12ahUKEwiJk93pu-yMAxUkxAIHHUynFwUQM3oECEwQAA..i&w=1200&h=675&hcb=2&ved=2ahUKEwiJk93pu-yMAxUkxAIHHUynFwUQM3oECEwQAA",
+        "content": [
+            {
+                "element": "1. Definition of Artificial Intelligence",
+                "section": "Artificial Intelligence (AI) is a field of computer science that focuses on creating machines capable of performing tasks that typically require human intelligence. These tasks include learning, reasoning, problem-solving, perception, and language understanding."
+            },
+            {
+                "element": "2. Domains Related to AI",
+                "section": "AI is an interdisciplinary field that overlaps with several domains such as Machine Learning, Natural Language Processing, Robotics, Computer Vision, and Expert Systems. Each of these areas contributes to the development of intelligent systems."
+            },
+            {
+                "element": "3. Applications of AI",
+                "section": "AI is used in a wide variety of applications including personal assistants (e.g., Siri, Alexa), recommendation systems (e.g., Netflix, Amazon), healthcare diagnostics, autonomous vehicles, fraud detection, and industrial automation."
+            },
+            {
+                "element": "4. Positive Impacts of AI",
+                "section": "AI enhances efficiency and productivity, reduces human error, enables 24/7 operations, and helps in making data-driven decisions. It supports innovation in sectors such as healthcare, education, and transportation."
+            },
+            {
+                "element": "5. Negative Impacts of AI",
+                "section": "AI raises concerns about job displacement, privacy issues, algorithmic bias, and lack of transparency. There are also fears regarding overdependence on machines and potential misuse in areas like surveillance or weaponization."
+            },
+            {
+                "element": "6. Ethical and Social Issues",
+                "section": "Ethical concerns in AI include ensuring fairness, accountability, and transparency. Societies must address questions about the rights and responsibilities of intelligent systems and how to prevent discrimination and bias in AI algorithms."
+            },
+            {
+                "element": "7. Future Outlook of AI",
+                "section": "AI is expected to continue transforming industries through innovations such as general AI, human-machine collaboration, and cognitive computing. Its growth calls for updated education, regulation, and governance frameworks."
+            }
+        ],
+        "keywords": [
+            "require human intelligence",
+            "creating machines capable",
+            "Artificial Intelligence",
+            "typically require human",
+            "Natural Language Processing",
+            "human intelligence",
+            "science that focuses",
+            "focuses on creating",
+            "capable of performing",
+            "typically require"
+        ]
+    },
+    {
+        "id": "59999",
+        "title": "Machine Learning",
+        "domain": "technology",
+        "type": "course",
+        "author": "",
+        "description": "This course introduces the fundamental concepts of Machine Learning (ML), including its definition, various learning approaches, and commonly used algorithms. It explains how machines can learn from data and improve their performance without explicit programming.",
+        "url": "https://www.example.com/machine-learning-course",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6wIHAPjBwUpL4zU5xrHUSeB5us2SrikvVAg&s",
+        "content": [
+            {
+                "element": "1. What is Machine Learning?",
+                "section": "In 1959, Arthur Samuel defined machine learning as the field of study that gives computers the ability to learn without being explicitly programmed. The learning process uses training data to improve the model over time, which can then be used to make future predictions."
+            },
+            {
+                "element": "2. Machine learning approaches",
+                "section": "There are four approaches : \n : Supervised Learning \n Unsupervised  \n Semi-Supervised Learning \n Reinforcement Learning"
+            },
+            {
+                "element": "3. Supervised Learning",
+                "section": "Supervised learning trains the model using labeled data to learn and predict new labels for unseen input data. It includes two main tasks:\n- Classification: Predicting discrete class labels such as 'black, white, or gray' or 'tumor or not tumor'.\n- Regression: Predicting continuous values like 'weight', 'probability', or 'cost'."
+            },
+            {
+                "element": "4. Unsupervised Learning",
+                "section": "Unsupervised learning detects patterns and relationships between data without using labeled data. Clustering algorithms are commonly used to group data points such that similar items are placed in the same cluster."
+            },
+            {
+                "element": "5. Semi-Supervised Learning",
+                "section": "Semi-supervised learning is a technique that falls between supervised and unsupervised learning. It uses a small amount of labeled data along with a large amount of unlabeled data. One approach is pseudo-labeling:\na. Train a model using the labeled data.\nb. Use the model to predict labels for the unlabeled data.\nc. Retrain a new model using both labeled and newly labeled data."
+            },
+            {
+                "element": "6. Reinforcement Learning",
+                "section": "Reinforcement learning uses a trial-and-error method with rewards to guide learning. The algorithm learns associations between actions and outcomes. Example applications include robotics (a robot finding its way) and self-driving cars."
+            },
+            {
+                "element": "7. Machine Learning Algorithms",
+                "section": "Understanding the problem type and algorithm category helps choose the right algorithm. Examples include:\n- Naïve Bayes (supervised classification, probabilistic)\n- Linear Regression (supervised regression)\n- Logistic Regression (supervised classification)\n- Support Vector Machine (SVM) (supervised linear/non-linear classification)\n- Decision Tree (supervised non-linear classification)\n- K-means Clustering (unsupervised learning)"
+            },
+            {
+                "element": "8. Naïve Bayes Classification",
+                "section": "Naïve Bayes classifiers assume that the value of a particular feature is independent of other features given the class. It’s a probabilistic classifier often used for text classification and spam detection."
+            },
+            {
+                "element": "9. Linear Regression",
+                "section": "Linear regression models the relationship between input variables (X) and a continuous output (Y) using a linear equation. It is one of the simplest and most widely used regression techniques."
+            }
+        ],
+        "keywords": [
+            "Arthur Samuel defined",
+            "Arthur Samuel",
+            "Samuel defined machine",
+            "Samuel defined",
+            "learning",
+            "data",
+            "Supervised",
+            "Unsupervised learning",
+            "explicitly programmed",
+            "defined machine learning"
+        ]
+    }
+]

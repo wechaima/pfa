@@ -1,0 +1,137 @@
+[
+    {
+        "id": "12222",
+        "title": "Introduction to Mathematics",
+        "domain": "mathematics",
+        "type": "course",
+        "author": "wikipedia",
+        "description": "This course offers a comprehensive introduction to the field of mathematics. It explores the fundamental concepts, key areas, and historical development of math. ",
+        "url": "https://en.wikipedia.org/wiki/Mathematics",
+        "image": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/206337433/original/cbef6956422d245fe1142a02af3cfc15ed80199b/assist-you-in-mathematics-555d.jpg",
+        "content": [
+            {
+                "element": "Introduction",
+                "section": "Mathematics is a field of study that discovers and organizes methods, theories and theorems that are developed and proved for the needs of empirical sciences and mathematics itself. There are many areas of mathematics, which include number theory (the study of numbers), algebra (the study of formulas and related structures), geometry (the study of shapes and spaces that contain them), analysis (the study of continuous changes), and set theory (presently used as a foundation for all mathematics).\nMathematics involves the description and manipulation of abstract objects that consist of either abstractions from nature or—in modern mathematics—purely abstract entities that are stipulated to have certain properties, called axioms. Mathematics uses pure reason to prove properties of objects, a proof consisting of a succession of applications of deductive rules to already established results. These results include previously proved theorems, axioms, and—in case of abstraction from nature—some basic properties that are considered true starting points of the theory under consideration.\nMathematics is essential in the natural sciences, engineering, medicine, finance, computer science, and the social sciences. Although mathematics is extensively used for modeling phenomena, the fundamental truths of mathematics are independent of any scientific experimentation. Some areas of mathematics, such as statistics and game theory, are developed in close correlation with their applications and are often grouped under applied mathematics. Other areas are developed independently from any application (and are therefore called pure mathematics) but often later find practical applications.\nHistorically, the concept of a proof and its associated mathematical rigour first appeared in Greek mathematics, most notably in Euclid's Elements. Since its beginning, mathematics was primarily divided into geometry and arithmetic (the manipulation of natural numbers and fractions), until the 16th and 17th centuries, when algebra and infinitesimal calculus were introduced as new fields. Since then, the interaction between mathematical innovations and scientific discoveries has led to a correlated increase in the development of both. At the end of the 19th century, the foundational crisis of mathematics led to the systematization of the axiomatic method, which heralded a dramatic increase in the number of mathematical areas and their fields of application. The contemporary Mathematics Subject Classification lists more than sixty first-level areas of mathematics."
+            },
+            {
+                "element": "Areas of mathematics",
+                "section": " Before the Renaissance, mathematics was divided into two main areas: arithmetic, regarding the manipulation of numbers, and geometry, regarding the study of shapes.Some types of pseudoscience, such as numerology and astrology, were not then clearly distinguished from mathematics.\nDuring the Renaissance, two more areas appeared. Mathematical notation led to algebra which, roughly speaking, consists of the study and the manipulation of formulas. Calculus, consisting of the two subfields differential calculus and integral calculus, is the study of continuous functions, which model the typically nonlinear relationships between varying quantities, as represented by variables. This division into four main areas—arithmetic, geometry, algebra, and calculus —endured until the end of the 19th century. Areas such as celestial mechanics and solid mechanics were then studied by mathematicians, but now are considered as belonging to physics.[10] The subject of combinatorics has been studied for much of recorded history, yet did not become a separate branch of mathematics until the seventeenth century.\nAt the end of the 19th century, the foundational crisis in mathematics and the resulting systematization of the axiomatic method led to an explosion of new areas of mathematics. he 2020 Mathematics Subject Classification contains no less than sixty-three first-level areas.Some of these areas correspond to the older division, as is true regarding number theory (the modern name for higher arithmetic) and geometry. Several other first-level areas have geometry in their names or are otherwise commonly considered part of geometry. Algebra and calculus do not appear as first-level areas but are respectively split into several first-level areas. Other first-level areas emerged during the 20th century or had not previously been considered as mathematics, such as mathematical logic and foundations."
+            },
+            {
+                "element": " Number theory ",
+                "section": "Number theory began with the manipulation of numbers, that is, natural numbers N and later expanded to integers Z and rational numbers Q Number theory was once called arithmetic, but nowadays this term is mostly used for numerical calculations. Number theory dates back to ancient Babylon and probably China. Two prominent early number theorists were Euclid of ancient Greece and Diophantus of Alexandria.The modern study of number theory in its abstract form is largely attributed to Pierre de Fermat and Leonhard Euler. The field came to full fruition with the contributions of Adrien-Marie Legendre and Carl Friedrich Gauss.\nMany easily stated number problems have solutions that require sophisticated methods, often from across mathematics. A prominent example is Fermat's Last Theorem. This conjecture was stated in 1637 by Pierre de Fermat, but it was proved only in 1994 by Andrew Wiles, who used tools including scheme theory from algebraic geometry, category theory, and homological algebra.Another example is Goldbach's conjecture, which asserts that every even integer greater than 2 is the sum of two prime numbers. Stated in 1742 by Christian Goldbach, it remains unproven despite considerable effort.Number theory includes several subareas, including analytic number theory, algebraic number theory, geometry of numbers (method oriented), diophantine equations, and transcendence theory (problem oriented)."
+            },
+            {
+                "element": " Geometry",
+                "section": "Geometry is one of the oldest branches of mathematics. It started with empirical recipes concerning shapes, such as lines, angles and circles, which were developed mainly for the needs of surveying and architecture, but has since blossomed out into many other subfields.\nA fundamental innovation was the ancient Greeks' introduction of the concept of proofs, which require that every assertion must be proved. For example, it is not sufficient to verify by measurement that, say, two lengths are equal; their equality must be proven via reasoning from previously accepted results (theorems) and a few basic statements. The basic statements are not subject to proof because they are self-evident (postulates), or are part of the definition of the subject of study (axioms). This principle, foundational for all mathematics, was first elaborated for geometry, and was systematized by Euclid around 300 BC in his book Elements.\nThe resulting Euclidean geometry is the study of shapes and their arrangements constructed from lines, planes and circles in the Euclidean plane (plane geometry) and the three-dimensional Euclidean space.\nEuclidean geometry was developed without change of methods or scope until the 17th century, when René Descartes introduced what is now called Cartesian coordinates. This constituted a major change of paradigm: Instead of defining real numbers as lengths of line segments (see number line), it allowed the representation of points using their coordinates, which are numbers. Algebra (and later, calculus) can thus be used to solve geometrical problems. Geometry was split into two new subfields: synthetic geometry, which uses purely geometrical methods, and analytic geometry, which uses coordinates systemically.\nAnalytic geometry allows the study of curves unrelated to circles and lines. Such curves can be defined as the graph of functions, the study of which led to differential geometry. They can also be defined as implicit equations, often polynomial equations (which spawned algebraic geometry). Analytic geometry also makes it possible to consider Euclidean spaces of higher than three dimensions.\nIn the 19th century, mathematicians discovered non-Euclidean geometries, which do not follow the parallel postulate. By questioning that postulate's truth, this discovery has been viewed as joining Russell's paradox in revealing the foundational crisis of mathematics. This aspect of the crisis was solved by systematizing the axiomatic method, and adopting that the truth of the chosen axioms is not a mathematical problem. In turn, the axiomatic method allows for the study of various geometries obtained either by changing the axioms or by considering properties that do not change under specific transformations of the space."
+            }
+        ],
+        "keywords": [
+           
+            "Mathematics",
+          
+            "geometry",
+           
+            "study",
+            "areas",
+            "number theory"
+          
+        ]
+    },
+    {
+        "id": "23254",
+        "title": "Fractions and Decimals",
+        "domain": "mathematics",
+        "type": "course",
+        "author": "cuemath",
+        "description": " This course explores the fundamental relationship between fractions and decimals, providing students with a strong foundation in arithmetic. Through clear examples and step-by-step methods, learners will understand how to convert between the two forms using long division and place value techniques. The course emphasizes practical understanding through real-life scenarios and visual explanations, making it ideal for building confidence in dealing with numbers.",
+        "url": "https://www.cuemath.com/numbers/relationship-between-fractions-and-decimals/",
+        "image": "https://images.twinkl.co.uk/tw1n/image/private/t_630_eco/image_repo/df/db/t2-m-2025-decimal-and-fraction-matching-cards_ver_1.jpg",
+        "content": [
+            {
+                "element": "Relationship Between Fractions and Decimals",
+                "section": "The relationship between fractions and decimals is very important to understand to develop a strong base in arithmetic. When a number is represented in form of p/q, where p and q belong to whole numbers and q is not equal to 0, it is termed as a fraction and can be converted into a decimal form by either converting the denominator to a power of 10 or by long division method."
+            },
+            {
+                "element": "What is the Relationship Between Fractions and Decimals?",
+                "section": " Both fractions and decimals are just two ways to represent numbers. Fractions are written in the form of p/q, where q≠0, while in decimals, the whole number part and fractional part are connected through a decimal point, for example, 0.5. Fractions and decimals represent the relationship of part by whole. In both fractions and decimals, we represent the whole by 1. Let us look at some examples to understand the relationship between fractions and decimals. Consider a full-thin crust pizza with 6 slices. Your mother gave half of it, i.e., 3 slices then in fractional form, we write it as 1/2, and in the decimal form, we write it as 0.5.\nLet us consider another example. Emma divides her garden into 12 equal parts. She grows flowers of different colors in each part of the garden. Amongst the 12 slots, she reserved 8 equal portions for red flowers, 2 portions for yellow color flowers, and 2 for blue color flowers. Let us write the portion given to flowers of each color in fraction and in decimal.\nRed flowers are grown in the 8/12 or 0.666 part of the garden.\nYellow flowers are grown in the 2/12 or 0.1666 part of the garden.\nBlue flowers are also grown in the 2/12 or 0.1666 part of the garden."
+            },
+            {
+                "element": "Converting Fraction into Decimal",
+                "section": "We can convert a fraction to its decimal form by the following two methods.\nLong Division Method\nConvert the denominator of the fraction to multiples of 10 like 10, 100, 1000, etc."
+            },
+            {
+                "element": "Converting Fraction to Decimal by Long Division Method",
+                "section": "When a number is present in a fraction form i.e., p/q, to convert it into the decimal form we use the long division method. The steps for converting fractions into decimals are given below. Let us understand these steps of the long division with the help of an example.\nConvert 3/8 into decimals.\nStep 1: Treat the numerator digit of the fraction as a dividend and the denominator as the divisor. In this case, the numerator is lesser than the denominator.\nStep 2: Make the dividend greater than the numerator by placing 0 next to the digit and to the quotient. Now we have 30 as a new dividend. (30>8).\nStep 3: In the quotient, place decimal after 0 and start the division.Step 4: Multiply 8 with a number so that the product is less than equal to 30. 8 times 3 is 24. Here now the digit in the quotient is 3, the remainder is 6. After introducing decimal in the quotient we can attach one 0 at each step of division.\nStep 5: Now the new dividend is 60. Multiply 8 with a number so that the product is less than equal to 60. 8 times 7 is 56. Here now quotient is 7, the remainder is 4.\nStep 6: Now the new dividend is 40. Multiply 8 with a number so that the product is less than equal to 40. 8 times 5 is 40.\nStep 7: The final remainder is 0 and the quotient is 0.375.\n3/8 = 0.375."
+            },
+            {
+                "element": " Convert the Denominator ",
+                "section": "Another method to convert the fraction to a decimal is by converting the denominator of the fraction to powers of 10 like 10, 100, 1000, etc. Let us understand this with the steps given below. We will take an example to proceed with the given steps.\nConvert 3/4 to decimals.\nStep1: Think of a number by which we can easily multiply the denominator and numerator to get the power of 10.\nStep2: Here denominator is 4. 4 times 25 is 100.\nStep 3: Multiply the numerator also with the same number\nStep 4: By multiplying the numerator of the fraction by 25 we get (3 × 25) = 75\nStep 5: Now we have a denominator in terms of powers of 10.\nStep 6: 75/100 = 0.75.\nThe decimal place of the final answer depends upon the number of trailing zeros present in the digit of the denominator."
+            },
+            {
+                "element": " Converting Decimal into Fraction ",
+                "section": "Every decimal number can be expressed in the form of a fraction. Steps to convert a decimal number to the fractional form are stated below:\nRewrite the number by ignoring the decimal point.\nDivide the number by the power of 10 such that the number of zeros in that should be equal to the number of decimal places in the given number.\nSimplify the fraction.\nLook at this example for a deeper understanding.\nDecimal form = 6.5 = 65/10 = 13/2 (Fraction form of 6.5)"
+            },
+            {
+                "element": "Important Notes:",
+                "section": "Fractions represent a ratio between two numbers, so they show finite value. For example, 1/3, or we can say 1 out of 3 parts.\nDecimals can also represent infinite values along with finite values. For example, if we convert the above fraction to decimal, we get 0.33333333 and it goes on up to infinity."
+            }
+        ],
+        "keywords": [
+            "decimal",
+            "fraction",
+            "number",
+            "decimals",
+            "decimal form",
+            "form",
+            "fractions",
+            "Step",
+            "denominator"
+         
+        ]
+    },
+    {
+        "id": "322222",
+        "title": "Number System ",
+        "domain": "mathematics",
+        "type": "course",
+        "author": " Byjus",
+        "description": "This course introduces the fundamental concepts of number systems in mathematics, including decimal, binary, octal, and hexadecimal systems. Students will learn how different number systems work, their real-life applications, and how to convert numbers from one system to another. The course also briefly touches upon the role of simulation tools in power electronics, offering a multidisciplinary perspective.",
+        "url": "https://byjus.com/maths/number-system/#:~:text=A%20number%20system%20is%20defined,algebraic%20structure%20of%20the%20figures.",
+        "image": "https://cdn.educba.com/academy/wp-content/uploads/2020/07/template-78.jpg",
+        "content": [
+            {
+                "element": "Introduction",
+                "section": "The number system or the numeral system is the system of naming or representing numbers. We know that a number is a mathematical value that helps to count or measure objects and it helps in performing various mathematical calculations. There are different types of number systems in Maths like decimal number system, binary number system, octal number system, and hexadecimal number system. In this article, we are going to learn what is a number system in Maths, different types, and conversion procedures with many number system examples in detail. Also, check mathematics for grade 12 here."
+            },
+            {
+                "element": "What is a Number?",
+                "section": " A number is a mathematical value used for counting or measuring or labelling objects. Numbers are used to performing arithmetic calculations.  Examples of numbers are natural numbers, whole numbers, rational and irrational numbers, etc. 0 is also a number that represents a null value.\nA number has many other variations such as even and odd numbers, prime and composite numbers. Even and odd terms are used when a number is divisible by 2 or not, whereas prime and composite differentiate between the numbers that have only two factors and more than two factors, respectively.\nIn a number system, these numbers are used as digits. 0 and 1 are the most common digits in the number system, that are used to represent binary numbers. On the other hand, 0 to 9 digits are also used for other number systems. Let us learn here the types of number systems."
+            },
+            {
+                "element": "Types of Number Systems",
+                "section": "There are various types of number systems in mathematics. The four most common number system types are:\n1.Decimal number system (Base- 10)\n2.Binary number system (Base- 2)\n3.Octal number system (Base-8)\n4.Hexadecimal number system (Base- 16)\nNow, let us discuss the different types of number systems with examples."
+            },
+            {
+                "element": "Binary Number System (Base 2 Number System)",
+                "section": "The base 2 number system is also known as the Binary number system wherein, only two binary digits exist, i.e., 0 and 1. Specifically, the usual base-2 is a radix of 2. The figures described under this system are known as binary numbers which are the combination of 0 and 1. For example, 110101 is a binary number.\nWe can convert any system into binary and vice versa."
+            },
+            {
+                "element": "Number System Conversion ",
+                "section": "Numbers can be represented in any of the number system categories like binary, decimal, hexadecimal, etc. Also, any number which is represented in any of the number system types can be easily converted to another. Check the detailed lesson on the conversions of number systems to learn how to convert numbers in decimal to binary and vice versa, hexadecimal to binary and vice versa, and octal to binary and vice versa using various examples.\nWith the help of the different conversion procedures explained above, now let us discuss in brief about the conversion of one number system to the other number system by taking a random number.\nAssume the number 349. Thus, the number 349 in different number systems is as follows:\nThe number 349 in the binary number system is 101011101\nThe number 349 in the decimal number system is 349.\nThe number 349 in the octal number system is 535.\nThe number 349 in the hexadecimal number system is 15D"
+            }
+        ],
+        "keywords": [
+         
+            "number",
+            "system",
+            "numbers",
+            "binary number system",
+            "binary",
+            "binary number",
+            "systems",
+            "number system types",
+            "decimal number system"
+        ]
+    }
+]
